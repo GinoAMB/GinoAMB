@@ -20,16 +20,9 @@ Actualmente practico con proyectos personales para reforzar mis conocimientos.
 📌 Explorando frontend con React
 
 
-## 📊 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GinoAMB&show_icons=true)
-
-
 ## 🌐 Contacto
 
 🔗 LinkedIn: https://www.linkedin.com/in/ginomorenobejarano/
 
-
-## ✨
 
 *"Full Stack en proceso, construyendo paso a paso"*
