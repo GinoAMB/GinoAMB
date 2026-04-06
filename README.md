@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hola, soy Gino M.B.
 
-<!--
-**GinoAMB/GinoAMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack en proceso
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+
+Desarrollador en formación, enfocado en construir aplicaciones web y mejorar constantemente mis habilidades.
+Actualmente practico con proyectos personales para reforzar mis conocimientos.
+
+---
+
+## 🛠️ Tecnologías
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,mysql,postgres,git,github,html,css,js,ts,react" />
+
+---
+
+## 📚 Actualmente
+
+📌 Practicando desarrollo backend con Spring Boot
+📌 Explorando frontend con React
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GinoAMB\&show_icons=true\&hide_title=true)
+
+---
+
+## 🌐 Contacto
+
+🔗 LinkedIn: https://www.linkedin.com/in/ginomorenobejarano/
+
+---
+
+## ✨
+
+*"Full Stack en proceso, construyendo paso a paso"*
