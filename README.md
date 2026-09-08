@@ -106,15 +106,6 @@ Landing page para una plataforma de productividad y gestión de procesos.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GinoAMB&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinoAMB&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Contacto
 
 📍 Chimbote, Perú
