@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gino Anderson Moreno Bejarano
+# Hola, soy Gino Anderson Moreno Bejarano
 
 ### 💻 Desarrollador Full Stack Junior | Java · Spring Boot · React · Node.js
 
